@@ -1,2 +1,2 @@
 # hello-world
-my firt
+myname is namrata. i try to do something new.
